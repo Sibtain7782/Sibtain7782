@@ -127,19 +127,8 @@ I'm a **B.Tech Artificial Intelligence & Machine Learning student** and an aspir
 <tr>
 <td width="50%" valign="top">
 
-### 📚 AI Study Planner & Productivity App
-**Description:** <!-- Add short description here -->
-**Tech Used:** <!-- e.g. Python, Streamlit, Supabase -->
-**Repository:** [Repo Link](#) <!-- Add GitHub repo link -->
-**Live Demo:** [Demo Link](#) <!-- Add live demo link -->
 
 
-
-### 💳 Fraud Detection System
-**Description:** <!-- Add short description here -->
-**Tech Used:** <!-- e.g. Python, Scikit-learn, Pandas -->
-**Repository:** [Repo Link](#) <!-- Add GitHub repo link -->
-**Live Demo:** [Demo Link](#) <!-- Add live demo link -->
 
 
 </table>
