@@ -118,7 +118,7 @@ I'm a **B.Tech Artificial Intelligence & Machine Learning student** and an aspir
 ### 🚗 Autonomous Vehicle Lane & Object Detection
 **Description:** <!-- Add short description here -->
 **Tech Used:** <!-- e.g. Python, OpenCV, YOLO, TensorFlow -->
-**Repository:** [Repo Link](#) <!-- Add GitHub repo link -->
+**Repository:** [[Repo Link](https://github.com/Sibtain7782/Autonomous_Vehicle_Project)](#) <!-- Add GitHub repo link -->
 **Live Demo:** [Demo Link](#) <!-- Add live demo link -->
 
 </td>
