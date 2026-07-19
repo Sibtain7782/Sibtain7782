@@ -107,7 +107,7 @@ I'm a **B.Tech Artificial Intelligence & Machine Learning student** and an aspir
 <td width="50%" valign="top">
 
 ### 🎯 Intelligent AI Attendance System
-**Description:** <!-- Add short description here -->
+**Description:**  hello <!-- Add short description here -->
 **Tech Used:** <!-- e.g. Python, OpenCV, Face Recognition, Flask -->
 **Repository:** [Repo Link](#) <!-- Add GitHub repo link -->
 **Live Demo:** [Demo Link](#) <!-- Add live demo link -->
