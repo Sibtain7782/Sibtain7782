@@ -133,20 +133,7 @@ I'm a **B.Tech Artificial Intelligence & Machine Learning student** and an aspir
 **Repository:** [Repo Link](#) <!-- Add GitHub repo link -->
 **Live Demo:** [Demo Link](#) <!-- Add live demo link -->
 
-</td>
-<td width="50%" valign="top">
 
-### 📰 Fake News Detection
-**Description:** <!-- Add short description here -->
-**Tech Used:** <!-- e.g. Python, NLP, Scikit-learn -->
-**Repository:** [Repo Link](#) <!-- Add GitHub repo link -->
-**Live Demo:** [Demo Link](#) <!-- Add live demo link -->
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
 
 ### 💳 Fraud Detection System
 **Description:** <!-- Add short description here -->
@@ -154,17 +141,7 @@ I'm a **B.Tech Artificial Intelligence & Machine Learning student** and an aspir
 **Repository:** [Repo Link](#) <!-- Add GitHub repo link -->
 **Live Demo:** [Demo Link](#) <!-- Add live demo link -->
 
-</td>
-<td width="50%" valign="top">
 
-### 📄 AI-Based Resume Analyzer & Job Recommendation System
-**Description:** <!-- Add short description here -->
-**Tech Used:** <!-- e.g. Python, NLP, FastAPI -->
-**Repository:** [Repo Link](#) <!-- Add GitHub repo link -->
-**Live Demo:** [Demo Link](#) <!-- Add live demo link -->
-
-</td>
-</tr>
 </table>
 
 ---
